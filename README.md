@@ -22,7 +22,7 @@ Teniendo listo los puntos anteriores podemos empezar con calma la clase.
 
 ---
 
-![Miku](https://d32bbxx72p2025.cloudfront.net/images/1920x1080_01_gLfnlLl.width-1500.format-webp.webp)
+![Miku](miku.webp)
 
 **EN ESTA CLASE LOGRARÁS**
 
@@ -33,7 +33,7 @@ Teniendo listo los puntos anteriores podemos empezar con calma la clase.
 
 ---
 
-![Teto](https://vsthemes.org/uploads/posts/2025-02/06b74d5d8e_photo_2025-02-22_22-01-19.webp)
+![Teto](teto.webp)
 
 **METAS A LARGO ALCANCE**
 
