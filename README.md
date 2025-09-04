@@ -4,7 +4,7 @@
 
 ¡Hola clase! El día de hoy aprenderemos a programar usando _JavaScript_ mientras creamos un bot moderador para el servidor de Discord del Streamer ZENYHU
 
-<img src="zenyhu.jpg" alt="ZENYHU" width="10" height="10">
+<img src="zenyhu.jpg" alt="ZENYHU" width="100" height="100">
 
 
 ---
