@@ -22,7 +22,7 @@ Teniendo listo los puntos anteriores podemos empezar con calma la clase.
 
 ---
 
-![Miku](https://hardzone.es/app/uploads-hardzone.es/2025/04/hatsune-miku.jpg?x=500&y=295&quality=80)
+![Miku](https://d32bbxx72p2025.cloudfront.net/images/1920x1080_01_gLfnlLl.width-1500.format-webp.webp)
 
 **EN ESTA CLASE LOGRARÁS**
 
@@ -64,3 +64,20 @@ El trabajo será usado de verdad en el servidor del Streamer [ZENYHU](https://ww
 
 Los quiere...
 _MALACHIS PRODUCTIONS_
+
+<a href="https://www.facebook.com/MalachisProductions" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30">
+</a>
+<a href="https://twitch.tv/DoorlessCat2835" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" alt="Twitch" width="30" height="30">
+</a>
+<a href="https://discord.gg/C4MQ2jZc" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" width="30" height="30">
+</a>
+<a href="https://www.youtube.com/@DoorlessCat2835" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" height="30">
+</a>
+
+
+
+
