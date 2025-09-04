@@ -4,7 +4,8 @@
 
 ¡Hola clase! El día de hoy aprenderemos a programar usando _JavaScript_ mientras creamos un bot moderador para el servidor de Discord del Streamer ZENYHU
 
-![zenyhu](zenyhu.jpg)
+<img src="zenyhu.jpg" alt="ZENYHU" width="10" height="10">
+
 
 ---
 
@@ -53,25 +54,13 @@ Entre los objetivos a alcanzar a largo alcance están:
 ![Rimuru](https://img.anmosugoi.com/file/media-sugoi/2025/02/Tensei-Shitara-Slime-Datta-Ken-Rimuru-Tempest-min.webp)
 
 El trabajo será usado de verdad en el servidor del Streamer [ZENYHU](https://www.twitch.tv/zenyhu) donde podrán acceder a su servidor mediante este [enlace](https://discord.gg/cweMmkhB)
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+
+
+
+
+
+
+
+
 Los quiere...
 _MALACHIS PRODUCTIONS_
